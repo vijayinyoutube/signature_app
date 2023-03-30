@@ -39,7 +39,7 @@ Visit my channel 👉 : https://www.youtube.com/c/vijaycreationsflutter
 
 <div align="center">
 
-[<img src="https://user-images.githubusercontent.com/58719230/228814407-b45d42d2-15d2-4ef3-8f26-0fae23dc1a1b.png" width="250" height="500">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
+[<img src="https://user-images.githubusercontent.com/58719230/228814407-b45d42d2-15d2-4ef3-8f26-0fae23dc1a1b.png">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
     
 </div>   
 
