@@ -35,6 +35,12 @@ To know more awesome content about Flutter.,
 Visit my channel 👉 : https://www.youtube.com/c/vijaycreationsflutter
 
 
+## Dependencies
+```pubspec.yaml
+hand_signature: ^3.0.1
+```
+
+
 ## Sample Results
 
 <div align="center">
